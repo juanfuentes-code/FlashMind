@@ -34,8 +34,8 @@ FlashMind es una aplicación moderna de estudio basada en el sistema de repetici
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/anki-app.git
-   cd anki-app
+   git clone https://github.com/juanfuentes-code/FlashMind.git
+   cd FlashMind
    ```
 
 2. **Instalar dependencias**
