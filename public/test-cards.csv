@@ -1,0 +1,11 @@
+front,back,tags
+What is React?,A JavaScript library for building user interfaces,frontend
+What is JSX?,A syntax extension for JavaScript that looks similar to HTML,frontend
+What is useState?,A React Hook that lets you add state to functional components,hooks
+What is useEffect?,A React Hook for performing side effects in components,hooks
+What does npm stand for?,Node Package Manager,tools
+What is Vite?,A next-generation frontend build tool,tools
+What is Tailwind CSS?,A utility-first CSS framework,frontend
+What is the Virtual DOM?,A lightweight copy of the actual DOM used by React for efficient updates,frontend
+What is a Promise?,An object representing the eventual completion or failure of an async operation,javascript
+What is closure in JS?,A function that has access to variables from its outer scope even after the outer function has returned,javascript
